@@ -113,8 +113,9 @@ body {
   color: #000;
 }
 .btnAll:hover {
-  background-color: #060764;
-  color: #ddbe04;
+  background-color: #f7f7f7;
+  color: #060764;
+  border: 1px solid #ddbe04;
 }
 .fa-star {
   color: #ddbe04;
